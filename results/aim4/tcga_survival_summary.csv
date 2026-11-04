@@ -1,0 +1,2 @@
+"cohort","n_samples","n_events","comparison","HR","CI_lo","CI_hi","p_logrank","median_OS_high","median_OS_low","note"
+"TCGA PAAD",146,75,"High vs Low cytostatic (median split)",1.386,0.874,2.197,0.1636,691,511,"Directional, non-significant; purity dilution likely"

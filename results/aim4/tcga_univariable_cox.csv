@@ -1,0 +1,5 @@
+"axis","HR","CI_lo","CI_hi","z","p_value"
+"Axis 1: RAS balance",2.045,0.201,20.801,0.604,0.5456
+"Axis 2: Death competence",3.467,0.382,31.43,1.105,0.2691
+"Axis 3: Hypoxia-metabolic",5.118,0.157,166.616,0.919,0.3582
+"Axis 4: Innate immune mimicry",6.07,0.238,154.664,1.092,0.275

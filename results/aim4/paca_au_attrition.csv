@@ -1,0 +1,5 @@
+"step","n","note"
+"GEO samples (GSE50827)",103,"All samples in GSE50827"
+"Mapped to Bailey ICGC IDs",92,"Numeric ID mapping GEO-PC-XXX = ICGC_0XXX"
+"Primary tumour only",76,"Excluding cell lines and metastases"
+"Complete survival data",27,"Follow-up months documented in public supplement"

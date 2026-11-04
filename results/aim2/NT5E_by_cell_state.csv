@@ -1,0 +1,5 @@
+"cell_state","n_cells","pct_expressing","mean_expr","median_expr"
+"RAS_independent_cytostatic",39858,3.6,0.0529,0
+"RAS_dependent_death_competent",2132,3.14,0.057,0
+"RAS_dependent_cytostatic",16965,3.07,0.047,0
+"RAS_independent_death_competent",5583,3.01,0.0505,0

@@ -1,0 +1,9 @@
+"signature","TE_mean","other_mean","diff","p_value"
+"Treg",3189.2,3052.5,136.7,0
+"Immune.Suppression.by.Myeloid.cells",2127.8,1958.8,169,0
+"Checkpoint.molecules",2161.2,2056.9,104.2,0
+"Effector.cells",3238,3059.6,178.5,0
+"Effector.cell.traffic",1225.2,986.7,238.5,0
+"Protumor.cytokines",1865.5,1757.1,108.4,0
+"Tumor.associated.Macrophages",1489.3,1404.5,84.8,0
+"Cancer.associated.fibroblasts",4375.3,4802.2,-426.9,1

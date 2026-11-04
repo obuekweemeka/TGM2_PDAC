@@ -1,0 +1,5 @@
+"maxRank","informative","pct_informative","pooled_cytostatic","n_cytostatic","pct_of_all_cells","pct_unclassifiable","patient_median","patient_min","patient_max","patients_over_50"
+1000,40287,76,86.9,35009,66.06,23.99,88.4,68.7,95.7,18
+1500,45174,85.2,86.32,38994,73.57,14.76,87.7,69,95.1,18
+2000,46396,87.5,86.19,39989,75.45,12.46,87.5,69.1,95.2,18
+2500,46702,88.1,85.98,40154,75.76,11.88,87.4,69.4,95.1,18

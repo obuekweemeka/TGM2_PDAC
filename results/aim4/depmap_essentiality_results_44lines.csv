@@ -1,0 +1,4 @@
+"gene","n_high","n_low","median_high","median_low","pct_chronos_positive","wilcoxon_p"
+"TGM2",22,22,0.192,0.122,93.2,0.333
+"NT5E",22,22,0.005,-0.017,47.7,0.435
+"KRAS",22,22,-2.084,-2.177,0,0.601
