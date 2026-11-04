@@ -1,0 +1,24 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# data are public and downloaded by the user
+data/raw/
+data/processed/
+
+# generated outputs
+output/figures/*
+output/tables/*
+output/processed_data/*
+!output/figures/.gitkeep
+!output/tables/.gitkeep
+!output/processed_data/.gitkeep
+logs/*
+!logs/.gitkeep
+
+# renv library (the lockfile is tracked, the library is not)
+renv/library/
+renv/staging/
+.DS_Store

@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: If you use this code, please cite the manuscript below.
+title: Analysis code for arrest-associated transcriptional programmes in treatment-naive PDAC
+authors:
+  - family-names: FILL IN
+    given-names: FILL IN
+license: MIT
+date-released: 2026-11-04
+version: 1.0.0
+repository-code: FILL IN once the repository is public
+preferred-citation:
+  type: article
+  title: Arrest-associated transcriptional programmes predominate over apoptotic programmes in treatment-naive pancreatic ductal adenocarcinoma
+  authors:
+    - family-names: FILL IN
+      given-names: FILL IN
+  year: 2026
